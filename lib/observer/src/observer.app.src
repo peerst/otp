@@ -40,7 +40,7 @@
 	       ttb,
 	       ttb_et]},
     {registered, []},
-    {applications, [kernel, stdlib]},
+    {applications, [kernel, stdlib, wx, runtime_tools]},
     {env, []}]}.
 
 
